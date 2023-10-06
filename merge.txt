@@ -1,6 +1,3 @@
 1st line content in merge.txt
-<<<<<<< HEAD
 appended some lines to merge.txt
-=======
 replacing the content in of this file to merge later
->>>>>>> merge_branch
