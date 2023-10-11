@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "scoopen"
+    organization = "pict"
 
     workspaces {
       name = "git-tf"
