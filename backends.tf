@@ -3,7 +3,7 @@ terraform {
     organization = "pict"
 
     workspaces {
-      name = "git-tf"
+      name = "git-new"
     }
   }
 }
